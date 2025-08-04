@@ -9,8 +9,8 @@
    📌Clear communicator who thrives at the intersection of data, strategy, and impact.
     
 ### Technical toolkit:
-    💡Skilled in: R, Excel, SPSS, Power BI
-    💡Constantly Upskilling: SQL, Python (live projects in progress)
+    💡Experienced: R, Excel, Power BI
+    💡Upskilling: SQL, Python (live projects in progress)
 
 ### What motivates me:
     ⚡Turning operational or behavioral data into meaningful insight

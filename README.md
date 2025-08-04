@@ -6,7 +6,7 @@
    📌Expertise in designing, running, and analyzing behavioral research
    📌Strong track record of synthesizing quantitative and qualitative data for diverse audiences
    📌Experience managing cross-functional projects with stakeholders from multiple disciplines
-   📌Clear communicator who thrives at the intersection of data, strategy, and impact
+   📌Clear communicator who thrives at the intersection of data, strategy, and impact.
     
 ### Technical toolkit:
     💡Skilled in: R, Excel, SPSS, Power BI

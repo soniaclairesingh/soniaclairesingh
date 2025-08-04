@@ -1,11 +1,18 @@
-### 👋 Hi, I'm Sonia!
+### Hi, I'm Sonia — turning behavioral research into data-driven insight
 
-I'm a behavioral science researcher pivoting into data analytics, with a focus on user engagement, learning behavior, and data-driven storytelling.
+🧠 Collaborative professional with 10+ years leading behavioral science research across academia. Now pivoting into data analytics and strategy roles, where I use evidence, empathy, and analysis       to solve real-world problems and support smarter decision-making.
 
-🛠️ Skills: SQL • Python • Excel • Power BI • Tableau • Behavioral Science
+### 💼What I bring:
+   📌Expertise in designing, running, and analyzing behavioral research
+   📌Strong track record of synthesizing quantitative and qualitative data for diverse audiences
+   📌Experience managing cross-functional projects with stakeholders from multiple disciplines
+   📌Clear communicator who thrives at the intersection of data, strategy, and impact
+    
+### Technical toolkit:
+    💡Skilled in: R, Excel, SPSS, Power BI
+    💡Constantly Upskilling: SQL, Python (live projects in progress)
 
-📊 Currently working on: LEGO set analysis project (SQL, Python, Power BI)
-
-🧠 Interests: EdTech • Gamified Learning • Creative Tools for Kids • AI for Retention
-
-🚀 Projects below!
+### What motivates me:
+    ⚡Turning operational or behavioral data into meaningful insight
+    ⚡Improving systems, workflows, and user experiences
+    ⚡Working on cross-functional teams that value evidence and curiosity

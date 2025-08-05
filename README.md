@@ -1,6 +1,6 @@
 ### Hi, I'm Sonia — turning behavioral research into data-driven insight
 
-🧠 Collaborative professional with 10+ years leading behavioral science research across academia. Now pivoting into data analytics and strategy roles, where I use evidence, empathy, and analysis       to solve real-world problems and support smarter decision-making.
+🧠 Collaborative professional with 10+ years leading behavioral science research across academia. Now pivoting into data analytics and strategy roles, where I use evidence, empathy, and analysis to solve real-world problems and support smarter decision-making.
 
 ### 💼What I bring:
    📌Expertise in designing, running, and analyzing behavioral research
@@ -10,7 +10,7 @@
     
 ### Technical toolkit:
     💡Experienced: R, Excel, Power BI
-    💡Upskilling: SQL, Python (live projects in progress)
+    💡Building Experience: SQL, Python (live projects in progress)
 
 ### What motivates me:
     ⚡Turning operational or behavioral data into meaningful insight

@@ -11,6 +11,7 @@
 ### Technical toolkit:
     💡Experienced: R, Excel, Power BI
     💡Building Experience: SQL, Python (live projects in progress)
+    💡Building games for language learning
 
 ### What motivates me:
     ⚡Turning operational or behavioral data into meaningful insight

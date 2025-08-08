@@ -10,7 +10,7 @@
     
 ### Technical toolkit:
     💡Experienced: R, Excel, Power BI
-    💡Building Experience: SQL, Python (live projects in progress)
+    💡Building Experience: SQL, Python
     💡Building games for language learning
 
 ### What motivates me:

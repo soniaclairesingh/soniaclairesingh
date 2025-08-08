@@ -4,6 +4,7 @@
 
 ### 💼What I bring:
    📌Expertise in designing, running, and analyzing behavioral research
+   📌Building experimental pipelines for testing user engagement, language-oriented games etc.
    📌Strong track record of synthesizing quantitative and qualitative data for diverse audiences
    📌Experience managing cross-functional projects with stakeholders from multiple disciplines
    📌Clear communicator who thrives at the intersection of data, strategy, and impact.
@@ -11,7 +12,6 @@
 ### Technical toolkit:
     💡Experienced: R, Excel, Power BI
     💡Building Experience: SQL, Python
-    💡Building games for language learning
 
 ### What motivates me:
     ⚡Turning operational or behavioral data into meaningful insight

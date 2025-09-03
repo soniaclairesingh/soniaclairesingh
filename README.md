@@ -1,4 +1,5 @@
-### Hi, I'm Sonia — turning behavioral research into data-driven insight
+### Hi, I'm Sonia! 
+... I enjoy turning behavioral research into data-driven insights...
 
 🧠 Collaborative professional with many years leading behavioral science research across academia. Now pivoting into data analytics and strategy roles, where I use evidence, empathy, and analysis to solve real-world problems and support smarter decision-making.
 
